@@ -5,7 +5,9 @@ kartu1 = input("Masukkan jumlah kartu pemain pertama : ")
 kartu2 = input("Masukkan jumlah kartu pemain kedua : ")
 kartu3 = input("Masukkan jumlah kartu pemain ketiga : ")
 
-if
-
+if kartu >= 21 :
+    print("Jumlah kartu yang dimiliki melebihi batas")
+else :
+    print("menang dengan jumlah kartu terbanyak")
 
 
